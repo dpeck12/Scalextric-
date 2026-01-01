@@ -36,8 +36,6 @@ Open http://localhost:5173/ and use Arrow Up/W to throttle.
 - Track: Swap between tracks by changing the path used in [src/main.ts](src/main.ts).
 - Difficulty: Use the HUD selector to change all bot difficulty.
 
-## Add Your Screenshot
-Place your image at `scalextric_picture.png` in the repository root, or update the path above to match your image location.
 
 ## Tech Stack
 - TypeScript + Vite
