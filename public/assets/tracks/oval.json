@@ -1,0 +1,10 @@
+{
+  "name": "Oval",
+  "start": { "x": 100, "y": 100, "headingDeg": 0 },
+  "segments": [
+    { "type": "straight", "lengthPx": 400 },
+    { "type": "curve", "radiusPx": 140, "angleDeg": 180, "dir": "left" },
+    { "type": "straight", "lengthPx": 400 },
+    { "type": "curve", "radiusPx": 140, "angleDeg": 180, "dir": "left" }
+  ]
+}

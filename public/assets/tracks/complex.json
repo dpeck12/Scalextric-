@@ -1,0 +1,22 @@
+{
+  "name": "Technical Circuit",
+  "start": { "x": 0, "y": 0, "headingDeg": 0 },
+  "laneWidthPx": 44,
+  "segments": [
+    { "type": "straight", "lengthPx": 600 },
+    { "type": "curve", "radiusPx": 180, "angleDeg": 60, "dir": "right" },
+    { "type": "straight", "lengthPx": 220 },
+    { "type": "curve", "radiusPx": 120, "angleDeg": 90, "dir": "left" },
+    { "type": "straight", "lengthPx": 180 },
+    { "type": "curve", "radiusPx": 90,  "angleDeg": 80, "dir": "left" },
+    { "type": "straight", "lengthPx": 160 },
+    { "type": "curve", "radiusPx": 140, "angleDeg": 110, "dir": "right" },
+    { "type": "straight", "lengthPx": 240 },
+    { "type": "curve", "radiusPx": 60,  "angleDeg": 60,  "dir": "right" },
+    { "type": "straight", "lengthPx": 140 },
+    { "type": "curve", "radiusPx": 200, "angleDeg": 140, "dir": "left" },
+    { "type": "straight", "lengthPx": 280 },
+    { "type": "curve", "radiusPx": 160, "angleDeg": 50,  "dir": "right" },
+    { "type": "straight", "lengthPx": 300 }
+  ]
+}
